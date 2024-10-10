@@ -1,6 +1,6 @@
 :root {
     --primary-color: #2c5773;
-    --secondary-color: #554b0e;
+    --secondary-color: #434543;
     --hover-color: #e74c3c;
 }
 
@@ -137,7 +137,7 @@ header {
     justify-content: center;
     align-items: start;
     padding: 80px 32px;
-    background-color: #242906;
+    background-color: #000000;
 }
 
 .articles {
@@ -218,7 +218,7 @@ body {
 }
 
 .footer {
-    background: #554b0e;
+    background: #434543;
     color: white;
     padding: 50px 0 20px;
     position: relative;
@@ -289,7 +289,7 @@ body {
 }
 
 .copyright {
-    background-color: #554b0e;
+    background-color: #434543;
     padding: 15px 0;
     margin-top: 30px;
 }
